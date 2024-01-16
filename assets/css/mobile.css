@@ -145,10 +145,11 @@
   .collection__title {
     flex-direction: column;
     align-items: flex-start;
+    margin-bottom: 30px;
   }
   .collection__link {
     font-size: 16px;
-    margin-bottom: 30px;
+    margin-top: 30px;
   }
   .collection__date {
     font-size: 12px;
