@@ -103,6 +103,9 @@
     width: 41px;
     height: 41px;
   }
+  .product__minus:hover, .product__plus:hover {
+    background: #FFF0E8;
+  }
   .product__info {
     font-size: 16px;
     margin-top: 35px;
@@ -243,6 +246,7 @@
     display: none;
     height: calc(100vh - 87px - 80px);
     overflow-y: auto;
+    padding-bottom: 70px;
   }
   .header__menu menu {
     display: flex;
